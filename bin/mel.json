@@ -1,0 +1,78 @@
+{
+	"name": "Melbourne",
+	"code": "MEL",
+	"meta": [
+		{
+			"month": 1,
+			"mean": 22.3,
+			"range": 3.6,
+			"conditions": {"Rain": 12.2, "Sunny": 10.8,	"Cloudy": 8.0}
+		},
+		{
+			"month": 2,
+			"mean": 22.3,
+			"range": 3.5,
+			"conditions": {"Rain": 12.5, "Sunny": 10.0, "Cloudy": 8.5}
+		},
+		{
+			"month": 3,
+			"mean": 21.2,
+			"range": 3.6,
+			"conditions": {"Rain": 13.6, "Sunny": 7.4, "Cloudy": 9.0}
+		},
+		{
+			"month": 4,
+			"mean": 18.5,
+			"range": 3.9,
+			"conditions": {"Rain": 12.8, "Sunny": 10.2, "Cloudy": 7.0}
+		},
+		{
+			"month": 5,
+			"mean": 15.5,
+			"range": 4.0,
+			"conditions": {"Rain": 13.0, "Sunny": 6.2, "Cloudy": 10.8}
+		},
+		{
+			"month": 6,
+			"mean": 13.1,
+			"range": 3.9,
+			"conditions": {"Rain": 12.5, "Sunny": 10.5, "Cloudy": 7.0}
+		},
+		{
+			"month": 7,
+			"mean": 12.2,
+			"range": 4.1,
+			"conditions": {"Rain": 11.1, "Sunny": 6.1, "Cloudy": 12.8}
+		},
+		{
+			"month": 8,
+			"mean": 13.4,
+			"range": 4.4,
+			"conditions": {"Rain": 10.4, "Sunny": 6.0, "Cloudy": 13.6}
+		},
+		{
+			"month": 9,
+			"mean": 15.5,
+			"range": 4.5,
+			"conditions": {"Rain": 10.5, "Sunny": 6.7, "Cloudy": 12.8}
+		},
+		{
+			"month": 10,
+			"mean": 17.8,
+			"range": 4.3,
+			"conditions": {"Rain": 11.6, "Sunny": 7.8, "Cloudy": 10.6}
+		},
+		{
+			"month": 11,
+			"mean": 19.6,
+			"range": 4.0,
+			"conditions": {"Rain": 11.7, "Sunny": 8.1, "Cloudy": 10.2}
+		},
+		{
+			"month": 12,
+			"mean": 21.3,
+			"range": 3.9,
+			"conditions": {"Rain": 11.5, "Sunny": 7.7, "Cloudy": 10.8}
+		}
+	]
+}

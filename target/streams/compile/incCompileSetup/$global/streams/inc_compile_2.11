@@ -1,0 +1,277 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\City$.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\City.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$1.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$2.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$getListOfFiles$1.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$getListOfFiles$2.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$getWeatherData$1.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$main$1.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$main$2.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Meta$.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Meta.class
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Weather.class
+binary dependencies:
+4 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.4.0.jar
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.4.0.jar
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> C:\Users\eqi1\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.City
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.City$
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$1
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$2
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$getListOfFiles$1
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$getListOfFiles$2
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$getWeatherData$1
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$main$1
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Main$$anonfun$main$2
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Meta
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Meta$
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf.qi.Weather
+used names:
+151 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> &&
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> *
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> +
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> -
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> /
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> <init>
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> ==
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> >
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> >=
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> AbstractFunction3
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> AbstractFunction4
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> AnyRef
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Array
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> City
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Codec
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Date
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> DateTimeFormatter
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> DefaultFormats
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Double
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> File
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> ISO_LOCAL_DATE_TIME
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> InputStream
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Int
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> JsonMethods
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> List
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> LocalDateTime
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Main
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> ManifestFactory
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Map
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Math
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Meta
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Nil
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> None
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Predef
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Product
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Random
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> ScalaRunTime
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Serializable
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Source
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Statics
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> String
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> StringContext
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Unit
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> Weather
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> _1
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> _2
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> _hashCode
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> _toString
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> accum
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> anyHash
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> apply
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> args
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> asInstanceOf
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> canBuildFrom
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> cities
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> city
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> classType
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> code
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> cond
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> condition
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> conditions
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> content
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> currentMeta
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> d
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> dir
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> dist
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> doubleHash
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> elf
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> endsWith
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> eq
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> error
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> exists
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> extract
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> f
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> fallbackSystemCodec
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> filter
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> finalizeHash
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> foreach
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> format
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> formats
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> fromFile
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getAirPressure
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getHour
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getHumidity
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getLines
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getListOfFiles
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getMonthValue
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getName
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getTemperature
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getWeatherCondition
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> getWeatherData
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> guess
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> guessPressure
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> hasNext
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> humidity
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> immutable
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> io
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> isDirectory
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> isFile
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> isInstanceOf
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> it
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> item
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> itemProb
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> iterator
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> jackson
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> java
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> json
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> json4s
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> jvalue2extractable
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> k
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> lang
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> listFiles
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> map
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> mean
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> meta
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> mix
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> mkString
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> month
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> name
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> ne
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> next
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> nextDouble
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> nextInt
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> now
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> org
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> p
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> package
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> parse
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> pressure
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> println
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> qi
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> range
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> refArrayOps
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> reflect
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> runtime
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> scala
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> sin
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> string2JsonInput
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> sys
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> temperature
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> time
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> toList
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> toOne
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> toString
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> typedProductIterator
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> unchecked
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> util
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> v
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> weatherCondition
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> while$1
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> ||
+product stamps:
+14 items
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\City$.class -> lastModified(1469369793284)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\City.class -> lastModified(1469369793268)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$1.class -> lastModified(1469369793330)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$2.class -> lastModified(1469369793330)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$getListOfFiles$1.class -> lastModified(1469369793346)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$getListOfFiles$2.class -> lastModified(1469369793346)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$getWeatherData$1.class -> lastModified(1469369793362)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$main$1.class -> lastModified(1469369793377)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$$anonfun$main$2.class -> lastModified(1469369793377)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main$.class -> lastModified(1469369793315)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Main.class -> lastModified(1469369793299)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Meta$.class -> lastModified(1469369793408)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Meta.class -> lastModified(1469369793393)
+C:\Users\eqi1\workspace\Weather\target\scala-2.11\classes\elf\qi\Weather.class -> lastModified(1469369793424)
+source stamps:
+1 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> hash(2d5431675901b8dc6abf3a152b2806a28e78bd70)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> lastModified(1467935545936)
+C:\Users\eqi1\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.4.0.jar -> lastModified(1466266005000)
+C:\Users\eqi1\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.4.0.jar -> lastModified(1466265999000)
+C:\Users\eqi1\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar -> java.lang.Object
+C:\Users\eqi1\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.4.0.jar -> org.json4s.DefaultFormats$
+C:\Users\eqi1\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.4.0.jar -> org.json4s.jackson.JsonMethods$
+C:\Users\eqi1\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Serializable
+internal apis:
+1 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBm3SPYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAN3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBT/AaF0AAZub3RpZnlzcQB+AAw4oHkWdAAKY29uZGl0aW9uc3NxAH4ADI6hbnd0AARjaXR5c3EAfgAMWiu3gXQABG5hbWVzcQB+AAyPlAt8dAAEd2FpdHNxAH4ADGRvylR0AAhwcmVzc3VyZXNxAH4ADEjx6lp0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADEc1aTF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMsOYALXQADHByb2R1Y3RBcml0eXNxAH4ADFqW2yJ0AAZlcXVhbHNzcQB+AAzpQlfPdAAMYXNJbnN0YW5jZU9mc3EAfgAM+p/la3QADHN5bmNocm9uaXplZHNxAH4ADO33D2F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMInYqI3QAC3RlbXBlcmF0dXJlc3EAfgAMpJnX1HQABG1lYW5zcQB+AAy7M4WldAAOZ2V0QWlyUHJlc3N1cmVzcQB+AAwdXz+IdAAIY2FuRXF1YWxzcQB+AAyGXUiedAAOY29weSRkZWZhdWx0JDRzcQB+AAxVEGl8dAAEbWFpbnNxAH4ADFKiPF90AARNZXRhc3EAfgAM0HI+S3QADXByb2R1Y3RQcmVmaXhzcQB+AAxu1p0TdAAJbm90aWZ5QWxsc3EAfgAMshimVXQADmdldFdlYXRoZXJEYXRhc3EAfgAMSpDXkXQABGNvZGVzcQB+AAwlMyo2dAAMaXNJbnN0YW5jZU9mc3EAfgAM6EBGZHQAE2dldFdlYXRoZXJDb25kaXRpb25zcQB+AAyGRlNBdAAGPGluaXQ+c3EAfgAMSKaON3QABG1ldGFzcQB+AAyuMaWUdAAJY29uZGl0aW9uc3EAfgAM2jfxB3QACGh1bWlkaXR5c3EAfgAMPUY3pHQADmdldExpc3RPZkZpbGVzc3EAfgAMqCuErXQAAj09c3EAfgAMdwi2bHQABXJhbmdlc3EAfgAM7fKFPXQABWNsb25lc3EAfgAMwL6blXQABENpdHlzcQB+AAzRTh54dAAHV2VhdGhlcnNxAH4ADMxqQZ10AAYkaW5pdCRzcQB+AAzHr+q6dAAOZ2V0VGVtcGVyYXR1cmVzcQB+AAxaBjbIdAAOY29weSRkZWZhdWx0JDNzcQB+AAxI7BYIdAAEY29weXNxAH4ADPssKN90AARNYWluc3EAfgAMTnuaIHQACHRvU3RyaW5nc3EAfgAM43eiwHQAAiE9c3EAfgAMn3IBgXQABHRpbWVzcQB+AAyPm4jvdAAIZ2V0Q2xhc3NzcQB+AAxGe/UbdAAOY29weSRkZWZhdWx0JDFzcQB+AAwLwkGrdAALZ2V0SHVtaWRpdHlzcQB+AAzIkW+XdAACbmVzcQB+AAxqtA/0dAACZXFzcQB+AAyp5V8hdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMV8vq0HQAAiMjc3EAfgAMPYG/bnQACGZpbmFsaXplc3EAfgAMD6DNHXQADnByb2R1Y3RFbGVtZW50c3EAfgAMwQgswHQACGhhc2hDb2Rlc3EAfgAMOLDxM3QABW1vbnRoc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAC2VsZi5xaS5DaXR5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGV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MaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ASN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AK9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AKFzcQB+AK50AAVBcnJheXEAfgErdXEAfgCsAAAAAXNxAH4ArnQABlN0cmluZ3NxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunEAfgDTcQB+AL9zcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCsAAAAAnNxAH4ArnEAfgDNcQB+AUVzcQB+AK5xAH4A1XEAfgErdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGZWxmLnFpc3EAfgFSdAADZWxmc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWHUO2dHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADlDOlxVc2Vyc1xlcWkxXHdvcmtzcGFjZVxXZWF0aGVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQtVDFnWQG43Gq/OhUrKAaijni9cA==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\eqi1\workspace\Weather\src\main\scala\elf\qi\Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVhzrbnF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXGVxaTFcd29ya3NwYWNlXFdlYXRoZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVhzz2pl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXGVxaTFcd29ya3NwYWNlXFdlYXRoZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVh0EgW11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXGVxaTFcd29ya3NwYWNlXFdlYXRoZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVh0EqaR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXGVxaTFcd29ya3NwYWNlXFdlYXRoZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVh1Au1d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXGVxaTFcd29ya3NwYWNlXFdlYXRoZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVh1DtnR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUM6XFVzZXJzXGVxaTFcd29ya3NwYWNlXFdlYXRoZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
