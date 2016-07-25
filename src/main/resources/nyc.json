@@ -1,0 +1,80 @@
+{
+	"name": "New York",
+	"code": "JFK",
+	"lang": 40,
+	"long": -74,
+	"meta": [
+		{
+			"month": 1,
+			"mean": 1.1,
+			"range": 3.3,
+			"conditions": {"Rain": 6.4, "Sunny": 10.6,	"Cloudy": 9.0, "Snow": 4.0}
+		},
+		{
+			"month": 2,
+			"mean": 0.0,
+			"range": 4.0,
+			"conditions": {"Rain": 6.4, "Sunny": 10.8, "Cloudy": 10.0, "Snow": 2.8}
+		},
+		{
+			"month": 3,
+			"mean": 4.0,
+			"range": 4.0,
+			"conditions": {"Rain": 9.1, "Sunny": 10.4, "Cloudy": 8.7, "Snow": 1.8}
+		},
+		{
+			"month": 4,
+			"mean": 9.5,
+			"range": 4.5,
+			"conditions": {"Rain": 11.2, "Sunny": 10.0, "Cloudy": 8.5, "Snow": 0.3}
+		},
+		{
+			"month": 5,
+			"mean": 15.5,
+			"range": 4.5,
+			"conditions": {"Rain": 11.1, "Sunny": 10.9, "Cloudy": 8}
+		},
+		{
+			"month": 6,
+			"mean": 21,
+			"range": 4.0,
+			"conditions": {"Rain": 11.2, "Sunny": 10.5, "Cloudy": 7.0}
+		},
+		{
+			"month": 7,
+			"mean": 24,
+			"range": 4.0,
+			"conditions": {"Rain": 10.4, "Sunny": 11.4, "Cloudy": 8.2}
+		},
+		{
+			"month": 8,
+			"mean": 22.5,
+			"range": 4.5,
+			"conditions": {"Rain": 9.5, "Sunny": 12.6, "Cloudy": 7.9}
+		},
+		{
+			"month": 9,
+			"mean": 18.5,
+			"range": 4.5,
+			"conditions": {"Rain": 8.7, "Sunny": 13.4, "Cloudy": 7.9}
+		},
+		{
+			"month": 10,
+			"mean": 12.5,
+			"range": 4.5,
+			"conditions": {"Rain": 8.9, "Sunny": 13.1, "Cloudy": 8.0}
+		},
+		{
+			"month": 11,
+			"mean": 7.0,
+			"range": 4.0,
+			"conditions": {"Rain": 9.4, "Sunny":12.6, "Cloudy": 7.8, "Snow": 0.2}
+		},
+		{
+			"month": 12,
+			"mean": 1.5,
+			"range": 3.5,
+			"conditions": {"Rain": 8.3, "Sunny": 11.4, "Cloudy": 8.0, "Snow": 2.3}
+		}
+	]
+}
